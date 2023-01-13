@@ -1,0 +1,11 @@
+.logiin{
+    padding: 5px;
+    margin: 2px;
+    background-color:rgb(199, 177, 150);
+    text-shadow: 5px;
+    font-style: inherit;
+    font-weight: 1000;
+    transition: transform 1s;
+    background-size: cover;
+    cursor: pointer;
+}

@@ -1,0 +1,23 @@
+.main{
+    background-color:rgba(0, 0, 0, 0.822)
+}
+.faq button{
+    padding: 5px;
+    margin: 5px;
+    width: 50%;
+    background-color: rgb(0, 0, 0);
+    
+}
+.faq h1{
+    color: rgb(245, 245, 245);
+    font-style: oblique;
+    font-size: 40px;
+    font-weight: 400;
+}
+.aa h1{
+    color: rgba(242, 247, 255, 0.781);
+   padding-top: 45px;
+   padding-bottom: 30px;
+   font-style: inherit;
+   font-weight: 1000;
+}

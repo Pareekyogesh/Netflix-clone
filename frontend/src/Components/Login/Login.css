@@ -1,0 +1,70 @@
+.login-page {
+    width: 360px; /* /This code for the login page des/ */
+    padding: 8% 0 0; 
+    margin: auto;
+  
+  }
+  .login-page .form .login{
+    margin-top: -31px; /* This code is for the margin of the login froom page contat */
+  margin-bottom: 26px;
+  }
+  .form {
+    position: relative;
+    z-index: 1;
+    background: #000000e8;;
+    /* #e0afafe8; */
+    max-width: 360px;
+    margin: 0 auto 100px; /* This is for the login page */
+    padding: 45px;
+    text-align: center;
+    box-shadow: 20 20 20px 0 rgba(207, 18, 18, 0.2), 0 5px 5px 0 rgba(105, 71, 71, 0.24);
+  }
+  .form input {
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;  /* This code for the all the input*/
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+  }
+  .form button {
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background-color: #3ac0c0;
+    background-image: linear-gradient(45deg,#c6cccc,#494545e8);
+    width: 100%;/* This for the login button*/
+    height: 100%;
+    border: 0;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  .form .message {
+    margin: 15px 0 0;
+    color: #24dac1;/* /This is for the not register message/ */
+    font-size: 15px;
+  
+  }
+  .form .message a {
+    color: #ffbd07; /* /This is for the Create Account Button/ */
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  
+  
+  body {
+    
+    font-family: "Roboto", sans-serif;/* This is for the background things*/
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: rgb(203, 212, 219);
+  } 
+  .login-header{
+    color: #f2f2f2;
+  }

@@ -1,0 +1,11 @@
+.black_adam{
+    width: 35vh;
+    height: 45vh;
+    padding: 10px;
+}
+.black_adam_about{
+    color: rgb(87, 69, 48);
+    font-size: 13px;
+    padding-left: 10px;
+    align-self: center;
+}
